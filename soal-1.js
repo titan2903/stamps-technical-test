@@ -1,5 +1,8 @@
 /**
  * 
+ * 
+1. Program kecil
+
 Tolong buat satu array / list dari 1 sampai 100. Print semua angka ini dalam urutan terbalik, tetapi ada beberapa peraturan : 
 1. Jangan print angka bilangan prima.
 2. Ganti angka yang dapat dibagi dengan angka 3 dengan text "Foo".
@@ -25,7 +28,7 @@ function isPrime(number) {
         if (number % i === 0) return false;
     }
 
-    // Mengembalikan true jika bilang tersebut bilangan prima
+    // Mengembalikan true jika bilangan tersebut bilangan prima
     return true;
 }
 
