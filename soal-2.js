@@ -1,4 +1,4 @@
-/**
+/*
 2. Menampilkan ramalan cuaca kota Jakarta untuk 5 hari kedepan
 
 1. Silakan gunakan API yang disediakan http://openweathermap.org

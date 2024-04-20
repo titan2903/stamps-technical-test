@@ -1,6 +1,4 @@
-/**
- * 
- * 
+/*
 1. Program kecil
 
 Tolong buat satu array / list dari 1 sampai 100. Print semua angka ini dalam urutan terbalik, tetapi ada beberapa peraturan : 
