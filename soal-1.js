@@ -49,7 +49,7 @@ function printNumbers() {
         }
     }
 
-    // Cetak value di dalam array dan sudah diubah menjadi string, dipisahkan oleh commad dan spasi
+    // Cetak value di dalam array dan sudah diubah menjadi string, dipisahkan oleh comma dan spasi
     console.log(numbers.join(", "));
 }
 
