@@ -26,7 +26,7 @@ function formatDate(timestamp) {
     const dayOfMonth = date.getDate();
     const month = months[date.getMonth()];
     const year = date.getFullYear();
-    return `${dayOfWeek}, ${month} ${dayOfMonth}, ${year}`;
+    return `${dayOfWeek}, ${month} ${dayOfMonth} ${year}`;
 }
 
 // Fungsi untuk mencetak prakiraan cuaca
