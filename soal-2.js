@@ -9,11 +9,11 @@
 Berikut contoh output yang kami harapkan:
 
 Weather Forecast:
-Sun, Apr 21, 2024: 30.57°C
-Mon, Apr 22, 2024: 31.56°C
-Tue, Apr 23, 2024: 31.84°C
-Wed, Apr 24, 2024: 30.54°C
-Thu, Apr 25, 2024: 31.93°C
+Mon, Apr 22 2024: 29.16°C
+Tue, Apr 23 2024: 32.36°C
+Wed, Apr 24 2024: 32.38°C
+Thu, Apr 25 2024: 29.69°C
+Fri, Apr 26 2024: 32.58°C
 
  */
 
